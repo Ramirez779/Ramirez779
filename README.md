@@ -18,6 +18,7 @@ Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque ta
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
@@ -59,6 +60,8 @@ Repositorio del proyecto de módulo con **Python**.
 
 <p align="center">
   <a href="https://github.com/Ramirez779"><img src="https://img.shields.io/badge/GitHub-Ramirez779-181717?style=for-the-badge&logo=github"/></a>
+  <a href="mailto:ramirezantonio7799@gmail.com"><img src="https://img.shields.io/badge/Gmail-ramirezantonio7799@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="tel:+50372589161"><img src="https://img.shields.io/badge/WhatsApp-+50372589161-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---

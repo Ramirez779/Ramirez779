@@ -1,14 +1,5 @@
-<!-- Banner animado tipo neón -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalxNY2kPK/giphy.gif" width="600" alt="Neon Coding Banner"/>
-</p>
-
 <h1 align="center">👋 ¡Hola! Soy <strong>Ramirez779</strong></h1>
 <h3 align="center">🎓 Estudiante y desarrollador enfocado en apps móviles 📱</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="coding GIF"/>
-</p>
 
 ---
 
@@ -21,23 +12,31 @@ Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque ta
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" alt="Flutter GIF"/>
-  <img src="https://media.giphy.com/media/3o7abKGMp1w6QoD1Ic/giphy.gif" width="60" alt="Dart GIF"/>
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" alt="Java GIF"/>
-  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="60" alt="Python GIF"/>
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="JS GIF"/>
-  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="60" alt="Git GIF"/>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" alt="GitHub GIF"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=glow"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&animation=glow"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=glow"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow"/>
+  <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white&animation=glow"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=glow"/>
 </p>
 
 ---
 
 ### 🚀 Proyectos destacados
 <p align="center">
-  <a href="https://github.com/Ramirez779/helloHand"><strong>helloHand</strong></a> - App en Flutter  
-  <a href="https://github.com/Ramirez779/Alph"><strong>Alph</strong></a> - Android nativo en Java  
-  <a href="https://github.com/Ramirez779/Calculadora"><strong>Calculadora</strong></a> - Mini app JS  
-  <a href="https://github.com/Ramirez779/Hello-Hand"><strong>Hello-Hand (Python)</strong></a> - Proyecto Python  
+  <a href="https://github.com/Ramirez779/helloHand">
+    <img src="https://img.shields.io/badge/helloHand-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=glow"/>
+  </a>
+  <a href="https://github.com/Ramirez779/Alph">
+    <img src="https://img.shields.io/badge/Alph-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=glow"/>
+  </a>
+  <a href="https://github.com/Ramirez779/Calculadora">
+    <img src="https://img.shields.io/badge/Calculadora-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow"/>
+  </a>
+  <a href="https://github.com/Ramirez779/Hello-Hand">
+    <img src="https://img.shields.io/badge/Hello--Hand-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow"/>
+  </a>
 </p>
 
 ---

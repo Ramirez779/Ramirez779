@@ -1,6 +1,14 @@
-<!-- Encabezado con presentación -->
+<!-- Banner animado tipo neón -->
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlQ7LRalxNY2kPK/giphy.gif" width="600" alt="Neon Coding Banner"/>
+</p>
+
 <h1 align="center">👋 ¡Hola! Soy <strong>Ramirez779</strong></h1>
 <h3 align="center">🎓 Estudiante y desarrollador enfocado en apps móviles 📱</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="200" alt="coding GIF"/>
+</p>
 
 ---
 
@@ -13,29 +21,24 @@ Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque ta
 ### 🛠️ Tecnologías y herramientas
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=spin"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&animation=spin"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=spin"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=spin"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=spin"/>
-  <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white&animation=spin"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=spin"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" alt="Flutter GIF"/>
+  <img src="https://media.giphy.com/media/3o7abKGMp1w6QoD1Ic/giphy.gif" width="60" alt="Dart GIF"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="60" alt="Java GIF"/>
+  <img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="60" alt="Python GIF"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="60" alt="JS GIF"/>
+  <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="60" alt="Git GIF"/>
+  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="60" alt="GitHub GIF"/>
 </p>
 
 ---
 
 ### 🚀 Proyectos destacados
-📱 **[helloHand](https://github.com/Ramirez779/helloHand)**  
-App desarrollada en **Flutter**, enfocada en funcionalidad móvil moderna.  
-
-☕ **[Alph](https://github.com/Ramirez779/Alph)**  
-Proyecto Android en **Java**, explorando desarrollo nativo.  
-
-🧮 **[Calculadora](https://github.com/Ramirez779/Calculadora)**  
-Mini app creada con **JavaScript**.  
-
-🐍 **[Hello-Hand (Python)](https://github.com/Ramirez779/Hello-Hand)**  
-Repositorio del proyecto de módulo con **Python**.
+<p align="center">
+  <a href="https://github.com/Ramirez779/helloHand"><strong>helloHand</strong></a> - App en Flutter  
+  <a href="https://github.com/Ramirez779/Alph"><strong>Alph</strong></a> - Android nativo en Java  
+  <a href="https://github.com/Ramirez779/Calculadora"><strong>Calculadora</strong></a> - Mini app JS  
+  <a href="https://github.com/Ramirez779/Hello-Hand"><strong>Hello-Hand (Python)</strong></a> - Proyecto Python  
+</p>
 
 ---
 
@@ -54,19 +57,23 @@ Repositorio del proyecto de módulo con **Python**.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramirez779&layout=compact&theme=radical" height="165"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramirez779&theme=radical" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ### 📫 Contacto
 
 <p align="center">
   <a href="https://github.com/Ramirez779">
-    <img src="https://img.shields.io/badge/GitHub-Ramirez779-181717?style=for-the-badge&logo=github&logoColor=white&animation=fade"/>
+    <img src="https://img.shields.io/badge/GitHub-Ramirez779-181717?style=for-the-badge&logo=github&logoColor=white&color=2bbc8a&animation=glow"/>
   </a>
   <a href="mailto:ramirezantonio7799@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ramirezantonio7799@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=fade"/>
+    <img src="https://img.shields.io/badge/Gmail-ramirezantonio7799@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=ff7961&animation=glow"/>
   </a>
   <a href="tel:+50372589161">
-    <img src="https://img.shields.io/badge/WhatsApp-+50372589161-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&animation=fade"/>
+    <img src="https://img.shields.io/badge/WhatsApp-+50372589161-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&color=1de9b6&animation=glow"/>
   </a>
 </p>
 

@@ -5,7 +5,7 @@
 
 ### 💫 Sobre mí
 Soy **estudiante de desarrollo de software**, apasionado por la creación de **aplicaciones móviles** que combinan diseño moderno con rendimiento.  
-Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque también disfruto experimentar con **Python** y **JavaScript**.
+Actualmente me especializo en **Flutter** y **Android Studio (Kotin)**, aunque también disfruto experimentar con **Python**.
 
 ---
 
@@ -14,9 +14,7 @@ Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque ta
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=glow"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white&animation=glow"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&animation=glow"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=glow"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=glow"/>
   <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white&animation=glow"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=glow"/>
 </p>
@@ -42,10 +40,8 @@ Actualmente me especializo en **Flutter** y **Android Studio (Java)**, aunque ta
 ---
 
 ### 🌱 Actualmente aprendiendo
-- Arquitectura limpia en Flutter  
-- Integración de APIs REST  
-- Mejores prácticas en UI/UX móvil  
-- Publicación de apps en Play Store  
+- Desarrollo de app con flutter
+- Explorando Android Studio  
 
 ---
 

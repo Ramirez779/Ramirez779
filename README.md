@@ -22,12 +22,13 @@ Trabajo principalmente con **Python** y **Dart**, desarrollando proyectos acadé
 ## 📂 Proyectos
 
 | Proyecto | Tecnología | Descripción |
-|--------|-----------|-------------|
-| 🔹 [helloHand](https://github.com/Ramirez779/helloHand) | Dart / Flutter | App móvil desarrollada como práctica de interfaces y navegación. |
-| 🔹 [Hello-Hand](https://github.com/Ramirez779/Hello-Hand) | Python | Proyecto de módulo enfocado en lógica y estructuras básicas. |
-| 🔹 [Alph](https://github.com/Ramirez779/Alph) | Java | Proyecto académico para practicar programación orientada a objetos. |
-| 🔹 [Satly](https://github.com/Ramirez779/Satly) | JavaScript | Proyecto web para reforzar lógica y manipulación básica. |
-| 🔹 [Satly-App](https://github.com/Ramirez779/Satly_App) | Dart / Flutter | Aplicación móvil complementaria al proyecto Satly. |
+|---------|------------|-------------|
+| 🔹 [helloHand](https://github.com/Ramirez779/helloHand) | Dart / Flutter | Aplicación móvil que traduce gestos del lenguaje de señas a texto y voz utilizando un modelo de IA. |
+| 🔹 [Hello-Hand](https://github.com/Ramirez779/Hello-Hand) | Python | Versión web del proyecto helloHand que procesa gestos en lenguaje de señas y los convierte en texto y voz mediante un modelo de IA. |
+| 🔹 [Alph](https://github.com/Ramirez779/Alph) | Java | Aplicación desarrollada en Java que muestra el precio de Bitcoin durante un periodo de 7 días. |
+| 🔹 [Satly](https://github.com/Ramirez779/Satly) | JavaScript | Plataforma web educativa que recompensa a los usuarios con sats por aprender conceptos básicos sobre Bitcoin mediante quizzes. |
+| 🔹 [Satly-App](https://github.com/Ramirez779/Satly_App) | Dart / Flutter | Aplicación móvil del proyecto Satly, más completa, que paga sats por aprender conceptos de Bitcoin a través de quizzes interactivos. |
+
 
 ---
 

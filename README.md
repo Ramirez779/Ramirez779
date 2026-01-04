@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Manrique (Ramirez779)</h1>
+<h1 align="center">👋 Hola, soy Ramirez779 </h1>
 <p align="center">
 Desarrollador en formación · Flutter · Python · Apps  
 <br/>

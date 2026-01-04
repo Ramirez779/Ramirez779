@@ -1,49 +1,51 @@
-<h1 align="center">Hola, soy Ramirez779 👋</h1>
-<h3 align="center">Estudiante de Desarrollo de Software | Python | Dart | Desarrollo de Apps</h3>
+<h1 align="center">👋 Hola, soy Manrique (Ramirez779)</h1>
+<p align="center">
+Desarrollador en formación · Flutter · Python · Apps  
+<br/>
+Enfocado en interfaces limpias, prototipos funcionales y aprendizaje práctico.
+</p>
 
 ---
 
-## 👨‍💻 Sobre mí
-Soy estudiante de **Desarrollo de Software**, enfocado en el **desarrollo de aplicaciones** y en el aprendizaje continuo.
-Trabajo principalmente con **Python** y **Dart**, desarrollando proyectos académicos y personales.
+## 🚀 Sobre mí
+Soy estudiante de **Desarrollo de Software**, con enfoque en **desarrollo de aplicaciones móviles**.  
+Me interesa crear proyectos bien estructurados, con buena experiencia de usuario y código claro.  
+Trabajo principalmente con **Flutter (Dart)** y **Python**, desarrollando proyectos personales y académicos.
 
 ---
 
 ## 🛠️ Tecnologías
-- Python  
-- Dart  
-- Flutter  
-- Java  
-- JavaScript  
-- Git y GitHub  
+- **Lenguajes:** Python, Dart, Java, JavaScript  
+- **Frameworks / Tools:** Flutter, Git, GitHub  
+- **Otros:** UI/UX básico, consumo de APIs, arquitectura básica de apps
 
 ---
 
 ## 📂 Proyectos
 
-| Proyecto | Tecnología | Descripción |
-|---------|------------|-------------|
-| 🔹 [helloHand](https://github.com/Ramirez779/helloHand) | Dart / Flutter | Aplicación móvil que traduce gestos del lenguaje de señas a texto y voz utilizando un modelo de IA. |
-| 🔹 [Hello-Hand](https://github.com/Ramirez779/Hello-Hand) | Python | Versión web del proyecto helloHand que procesa gestos en lenguaje de señas y los convierte en texto y voz mediante un modelo de IA. |
-| 🔹 [Alph](https://github.com/Ramirez779/Alph) | Java | Aplicación desarrollada en Java que muestra el precio de Bitcoin durante un periodo de 7 días. |
-| 🔹 [Satly](https://github.com/Ramirez779/Satly) | JavaScript | Plataforma web educativa que recompensa a los usuarios con sats por aprender conceptos básicos sobre Bitcoin mediante quizzes. |
-| 🔹 [Satly-App](https://github.com/Ramirez779/Satly_App) | Dart / Flutter | Aplicación móvil del proyecto Satly, más completa, que paga sats por aprender conceptos de Bitcoin a través de quizzes interactivos. |
-
+| Proyecto | Stack | Descripción |
+|--------|-------|------------|
+| **[Carto](https://github.com/Ramirez779/Carto)** | Flutter | Prototipo de aplicación de compras enfocado en una interfaz moderna, limpia y bien estructurada. Sin backend ni servicios externos. |
+| **[helloHand](https://github.com/Ramirez779/helloHand)** | Flutter · IA | Aplicación móvil que traduce gestos del lenguaje de señas a texto y voz mediante un modelo de IA. |
+| **[Hello-Hand](https://github.com/Ramirez779/Hello-Hand)** | Python | Versión web del proyecto helloHand para reconocimiento de gestos y conversión a texto y voz. |
+| **[Alph](https://github.com/Ramirez779/Alph)** | Java | Aplicación que muestra el precio de Bitcoin durante un periodo de 7 días. |
+| **[Satly](https://github.com/Ramirez779/Satly)** | JavaScript | Plataforma web educativa que recompensa a los usuarios con sats por aprender conceptos básicos de Bitcoin mediante quizzes. |
+| **[Satly App](https://github.com/Ramirez779/Satly_App)** | Flutter | Aplicación móvil de Satly con quizzes interactivos y recompensas en sats. |
 
 ---
 
 ## 🌱 Actualmente aprendiendo
-- Desarrollo de aplicaciones móviles con Flutter  
-- Buenas prácticas en desarrollo de software  
+- Desarrollo avanzado con Flutter  
+- Buenas prácticas y arquitectura de aplicaciones  
+- Mejora de interfaces y experiencia de usuario
 
 ---
 
 ## 📫 Contacto
 - GitHub: https://github.com/Ramirez779  
 - Correo: manriqueramirez204@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/manrique-antonio-portillo-ram%C3%ADrez-1b4364394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- LinkedIn: https://www.linkedin.com/in/manrique-antonio-portillo-ram%C3%ADrez-1b4364394
 
 ---
 
-⭐ Gracias por visitar mi perfil.  
-📌 Perfil en constante aprendizaje y crecimiento.
+⭐ Perfil en constante aprendizaje y crecimiento.

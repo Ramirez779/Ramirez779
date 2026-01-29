@@ -30,7 +30,6 @@ Trabajo principalmente con **Flutter (Dart)** y **Python**, desarrollando proyec
 | **[Hello-Hand](https://github.com/Ramirez779/Hello-Hand)** | Python | Versión web del proyecto helloHand para reconocimiento de gestos y conversión a texto y voz. |
 | **[Alph](https://github.com/Ramirez779/Alph)** | Java | Aplicación que muestra el precio de Bitcoin durante un periodo de 7 días. |
 | **[Satly](https://github.com/Ramirez779/Satly)** | JavaScript | Plataforma web educativa que recompensa a los usuarios con sats por aprender conceptos básicos de Bitcoin mediante quizzes. |
-| **[Satly App](https://github.com/Ramirez779/Satly_App)** | Flutter | Aplicación móvil de Satly con quizzes interactivos y recompensas en sats. |
 
 ---
 

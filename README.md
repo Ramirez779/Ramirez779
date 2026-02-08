@@ -41,8 +41,6 @@ I work primarily with **Flutter (Dart)**, developing personal and academic proje
 | Project | Platform | Description |
 |-------|----------|-------------|
 | **[Carto](https://github.com/Ramirez779/Carto)** | Mobile · Web | Shopping app prototype built with Flutter, focused on modern UI, clean layout, and clear project structure. No backend or external services. |
-| **[helloHand](https://github.com/Ramirez779/helloHand)** | Mobile | Flutter mobile application that translates sign language gestures into text and voice using an AI model. |
-| **[Hello-Hand](https://github.com/Ramirez779/Hello-Hand)** | Web | Web implementation of the helloHand project for gesture recognition and text-to-speech conversion. |
 
 ---
 

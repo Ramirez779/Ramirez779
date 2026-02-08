@@ -1,65 +1,77 @@
 <h1 align="center">Ramirez779</h1>
 
 <p align="center">
-Desarrollador Flutter multiplataforma en formación  
+Flutter Multiplatform Developer (in training)  
 <br/>
-Mobile · Web · Interfaces limpias · Arquitectura clara
+Mobile · Web · Clean UI · Scalable App Structure
 </p>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy estudiante de **Desarrollo de Software** con enfoque principal en el desarrollo **multiplataforma con Flutter**.  
-Me interesa construir aplicaciones móviles y web bien estructuradas, con interfaces limpias, buena experiencia de usuario y código mantenible.
+I am a **Software Development student** focused on **Flutter multiplatform development**.  
+My main interest is building **mobile and web applications** with clean interfaces, clear structure, and maintainable code.
 
-Trabajo principalmente con **Flutter (Dart)**, desarrollando proyectos personales y académicos orientados a la práctica real, el diseño de UI consistente y la correcta organización de la aplicación.
+I work primarily with **Flutter (Dart)**, developing personal and academic projects aimed at real-world practice, UI consistency, and proper application organization.
 
 ---
 
-## Stack principal
+## Core Stack
 
-**Flutter · Dart**
-- Desarrollo de aplicaciones móviles (Android / iOS)
+### Flutter · Dart
+- Mobile application development (Android / iOS)
 - Flutter Web
-- Gestión de estado (nivel básico–intermedio)
-- Navegación y composición de UI
-- Consumo de APIs
-- Separación de capas y estructura de proyecto
+- UI composition and responsive layouts
+- Navigation and routing
+- State management (basic to intermediate)
+- API consumption
+- Feature-based project structure
 
-**Herramientas**
+### Tools
 - Git · GitHub
-- Android Emulator · Chrome / Edge
-- Diseño UI a partir de prototipos
+- Android Emulator
+- Chrome / Edge for Flutter Web
+- UI implementation from design prototypes
 
 ---
 
-## Proyectos Flutter
+## Featured Flutter Projects
 
-| Proyecto | Plataforma | Descripción |
-|--------|------------|------------|
-| **[Carto](https://github.com/Ramirez779/Carto)** | Mobile · Web | Prototipo de aplicación de compras desarrollado con Flutter, enfocado en una interfaz moderna, limpia y una estructura clara. No utiliza backend ni servicios externos. |
-| **[helloHand](https://github.com/Ramirez779/helloHand)** | Mobile | Aplicación Flutter que traduce gestos del lenguaje de señas a texto y voz mediante un modelo de IA. |
-| **[Hello-Hand](https://github.com/Ramirez779/Hello-Hand)** | Web | Implementación web del proyecto helloHand para reconocimiento de gestos y conversión a texto y voz. |
-
----
-
-## Enfoque actual de aprendizaje
-
-- Desarrollo avanzado con Flutter
-- Buenas prácticas y arquitectura multiplataforma
-- Mejora de interfaces y experiencia de usuario
-- Escalabilidad y mantenimiento de aplicaciones
+| Project | Platform | Description |
+|-------|----------|-------------|
+| **[Carto](https://github.com/Ramirez779/Carto)** | Mobile · Web | Shopping app prototype built with Flutter, focused on modern UI, clean layout, and clear project structure. No backend or external services. |
+| **[helloHand](https://github.com/Ramirez779/helloHand)** | Mobile | Flutter mobile application that translates sign language gestures into text and voice using an AI model. |
+| **[Hello-Hand](https://github.com/Ramirez779/Hello-Hand)** | Web | Web implementation of the helloHand project for gesture recognition and text-to-speech conversion. |
 
 ---
 
-## Contacto
+## Architecture & Technical Decisions
+
+- Feature-based Flutter project structure
+- Clear separation between UI and logic
+- Reusable widgets to maintain UI consistency
+- Scalable structure prepared for future backend integration
+- Focus on readability and maintainability
+
+---
+
+## Currently Learning
+
+- Advanced Flutter development
+- Multiplatform architecture best practices
+- UI/UX improvements for mobile and web
+- Writing cleaner and more maintainable Flutter code
+
+---
+
+## Contact
 
 - GitHub: https://github.com/Ramirez779  
-- Correo: manriqueramirez204@gmail.com  
+- Email: manriqueramirez204@gmail.com  
 - LinkedIn:  
   https://www.linkedin.com/in/manrique-antonio-portillo-ram%C3%ADrez-1b4364394
 
 ---
 
-Perfil enfocado en el crecimiento continuo como desarrollador Flutter.
+Focused on continuous growth as a Flutter multiplatform developer.

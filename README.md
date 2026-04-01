@@ -1,75 +1,56 @@
-<h1 align="center">Ramirez779</h1>
+<h1 align="center">Antonio Ramírez</h1>
 
 <p align="center">
-Flutter Multiplatform Developer (in training)  
-<br/>
-Mobile · Web · Clean UI · Scalable App Structure
+  <strong>Java Developer | Backend Specialist</strong>
+  <br/>
+  Spring Boot · Flutter Multiplatform · Clean Architecture · Scalable Systems
 </p>
 
 ---
 
 ## About Me
 
-I am a **Software Development student** focused on **Flutter multiplatform development**.  
-My main interest is building **mobile and web applications** with clean interfaces, clear structure, and maintainable code.
-
-I work primarily with **Flutter (Dart)**, developing personal and academic projects aimed at real-world practice, UI consistency, and proper application organization.
+I am a **Software Developer** specialized in **Java backend development**. My core focus is building robust, scalable server-side logic while leveraging **Flutter** to create high-quality multiplatform interfaces. I prioritize SOLID principles, clean code, and maintainable architectures.
 
 ---
 
-## Core Stack
+## Technical Stack
 
-### Flutter · Dart
-- Mobile application development (Android / iOS)
-- Flutter Web
-- UI composition and responsive layouts
-- Navigation and routing
-- State management (basic to intermediate)
-- API consumption
-- Feature-based project structure
+### Backend (Core)
+- **Java:** Spring Boot, Spring Security, RESTful APIs
+- **Database:** MySQL, PostgreSQL
+- **Tools:** Maven, Gradle, Docker
 
-### Tools
-- Git · GitHub
-- Android Emulator
-- Chrome / Edge for Flutter Web
-- UI implementation from design prototypes
+### Frontend (Plus)
+- **Flutter & Dart:** Mobile (Android/iOS) and Web development
+- **State Management:** Riverpod / Functional UI
+- **Design:** Clean UI and Responsive Layouts
 
 ---
 
-## Featured Flutter Projects
+## Projects
 
-| Project | Platform | Description |
-|-------|----------|-------------|
-| **[Carto](https://github.com/Ramirez779/Carto)** | Mobile · Web | Shopping app prototype built with Flutter, focused on modern UI, clean layout, and clear project structure. No backend or external services. |
-
----
-
-## Architecture & Technical Decisions
-
-- Feature-based Flutter project structure
-- Clear separation between UI and logic
-- Reusable widgets to maintain UI consistency
-- Scalable structure prepared for future backend integration
-- Focus on readability and maintainability
+| Project | Tech Stack | Description |
+|---|---|---|
+| **[Carto](https://github.com/Ramirez779/Carto)** | Flutter | Shopping app prototype focused on modern UI and scalable structure. |
+| **Java Project** | Java · Spring | *[In Progress]* Describe aquí brevemente la lógica de negocio que estás desarrollando. |
 
 ---
 
-## Currently Learning
+## Architecture & Logic
 
-- Advanced Flutter development
-- Multiplatform architecture best practices
-- UI/UX improvements for mobile and web
-- Writing cleaner and more maintainable Flutter code
+- **Backend:** Focus on MVC, Dependency Injection, and API Security.
+- **Frontend:** Feature-based project structure with clear logic separation.
+- **Quality:** Writing testable code and maintaining high readability.
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/Ramirez779  
-- Email: manriqueramirez204@gmail.com  
-- LinkedIn:  
-  https://www.linkedin.com/in/manrique-antonio-portillo-ram%C3%ADrez-1b4364394
+- **GitHub:** [github.com/Ramirez779](https://github.com/Ramirez779)
+- **LinkedIn:** [Manrique Antonio Portillo Ramírez](https://www.linkedin.com/in/manrique-antonio-portillo-ram%C3%ADrez-1b4364394)
+- **Email:** manriqueramirez204@gmail.com
 
 ---
 
-Focused on continuous growth as a Flutter multiplatform developer.
+<p align="center">Building the bridge between robust backends and elegant frontends.</p>

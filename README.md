@@ -32,7 +32,7 @@ I am a **Software Developer** specializing in **Java backend systems**. I focus 
 
 | Project | Stack | Key Focus |
 | :--- | :--- | :--- |
-| **[Veterinary System](https://github.com/Ramirez779/Veterinaria)** | Java · MySQL | MVC Pattern & JDBC Data Migration |
+| **[Veterinary System](https://github.com/Ramirez779/clinical-management-project)** | Java · MySQL | MVC Pattern & JDBC Data Migration |
 | **[Carto](https://github.com/Ramirez779/Carto)** | Flutter · Dart | Modern UI & Scalable Mobile Structure |
 
 ---

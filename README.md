@@ -3,49 +3,37 @@
 <p align="center">
   <strong>Java Developer | Backend Specialist</strong>
   <br/>
-  Spring Boot · JDBC · MySQL · Flutter Multiplatform · Architecture
+  Java Core · Spring Boot · MySQL · Flutter Multiplatform · Clean UI
 </p>
 
 ---
 
 ## About Me
 
-I am a **Software Developer** specialized in **Java backend development**. My core focus is building robust, scalable server-side logic and database management, while leveraging **Flutter** to create high-quality multiplatform interfaces. I prioritize SOLID principles, MVC architecture, and maintainable code.
+I am a **Software Developer** specializing in **Java backend systems**. I focus on building robust server-side logic and efficient database management, complemented by **Flutter** for high-quality multiplatform interfaces. I prioritize clean code, MVC architecture, and scalable software design.
 
 ---
 
 ## Technical Stack
 
-### Backend (Core Focus)
+### Backend (Core)
 - **Java:** Core (17+), JDBC, Spring Boot (Learning)
-- **Database:** MySQL (Relational Design, SQL Optimization)
-- **Tools:** Git/GitHub, Maven, Docker
+- **Database:** MySQL (Relational Design & SQL)
+- **Tools:** Git, Maven, Docker
 
-### Frontend (Multiplatform Plus)
+### Frontend (Plus)
 - **Flutter & Dart:** Mobile & Web development
 - **State Management:** Riverpod
-- **Design:** Clean UI & Scalable Project Structure
+- **Architecture:** Feature-based project structure
 
 ---
 
 ## Featured Projects
 
-###  [Veterinary Management System](https://github.com/Ramirez779/Veterinaria) **Java | MySQL | Swing**
-- Full migration from binary file persistence (`.dat`) to **MySQL** using **JDBC**.
-- Implementation of **MVC Pattern** to decouple UI from business logic.
-- Secure data handling using `PreparedStatement` to prevent SQL Injection.
-
-###  [Carto](https://github.com/Ramirez779/Carto)
-**Flutter | Dart**
-- Shopping app prototype focused on modern UI and scalable feature-based structure.
-
----
-
-## Architecture & Logic
-
-- **Backend:** Focus on MVC, relational integrity, and efficient query management.
-- **Frontend:** Clean separation between UI and business logic through reusable widgets.
-- **Goal:** Building high-performance bridges between robust backends and elegant frontends.
+| Project | Stack | Key Focus |
+| :--- | :--- | :--- |
+| **[Veterinary System](https://github.com/Ramirez779/Veterinaria)** | Java · MySQL | MVC Pattern & JDBC Data Migration |
+| **[Carto](https://github.com/Ramirez779/Carto)** | Flutter · Dart | Modern UI & Scalable Mobile Structure |
 
 ---
 
@@ -57,4 +45,4 @@ I am a **Software Developer** specialized in **Java backend development**. My co
 
 ---
 
-<p align="center">Focused on backend excellence and cross-platform innovation.</p>
+<p align="center">Building robust backends and elegant multiplatform solutions.</p>
